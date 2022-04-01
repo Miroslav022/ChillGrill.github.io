@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+    <loc>https://miroslav022.github.io/ChillGrill.github.io/</loc>
+    <lastmod>2022.04.01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1</priority>
+</url>
+<url>
+    <loc>https://miroslav022.github.io/ChillGrill.github.io/cenovnik.html</loc>
+    <lastmod>2022.04.01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+</url>
+<url>
+    <loc>https://miroslav022.github.io/ChillGrill.github.io/kontakt.html</loc>
+    <lastmod>2022.04.01</lastmod>
+    <changefreq>0.7</changefreq>
+    <priority>monthly</priority>
+</url>
+<url>
+    <loc>https://miroslav022.github.io/Portfolio-MiroslavJandri-/</loc>
+    <lastmod>2022-3-6</lastmod>
+    <changefreq>0.65</changefreq>
+    <priority>monthly</priority>
+</url>
+</urlset>
