@@ -1,0 +1,474 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+.fancy-border {
+    border-radius:76% 24% 26% 74% / 69% 41% 59% 31%  ;
+    background-color: #ffd900;
+    width: 550px;
+    height: 600px;
+    
+    .slika {   
+        
+        
+        
+        img {
+            border-radius: 50%;
+            
+        }
+    }
+    
+}
+
+.zuta {
+    color: #ffd900;
+    font-weight: 700;
+}
+
+.mc-header {
+    margin-top: 100px;
+}
+
+.btn {
+    background-color: #ffd900;
+    padding: 10px 20px;
+    border-radius: 15px;
+    color:#fff;
+    border:1px solid #ffd900;
+    transition: 0.5s;
+    
+    
+
+    &:hover {
+        background-color: transparent;
+        color: #000;
+        transition: 0.5s;
+        border:1px solid #ffd900;
+    }
+}
+
+.mc-bg-specijalitet {
+    background-color: #e5e5e5 !important;
+    margin-top: 100px;
+    
+
+    .mcc {
+        display: flex;
+        justify-content: center !important; 
+    }
+
+    .mc-card {
+        width: 70%;
+        height: 500px;
+    }
+    
+   .border-f {
+       border-radius: 68% 9% 53% 33% / 48% 64% 20% 40% ;
+       background-color: #ffd900;
+   }
+  
+    
+}
+
+.mc-ponuda {
+
+    .mc-kartice {
+        margin-top: 350px;
+        margin-bottom: 200px;
+        color: #fff;
+        .kartice {
+            background-color: rgba($color: #000000, $alpha: 0.5);
+            width: 70%;
+
+            .velicina {
+                height: 320px;
+            }
+            .krug{
+                background-color: #ffd900;
+                width: 70px;
+                height: 70px;
+                border-radius: 50%;
+            }
+            a {
+                color: #fff;
+            }
+        }
+    }
+}
+
+
+
+
+
+
+
+.mc-ponuda {
+    background-image: url(../img/pozadina2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mc-slide-bg {
+    background-color: #e5e5e5;
+
+    .mc-slider {
+        margin-top: 150px;
+        margin-bottom: 150px;
+
+        .slider {
+            -webkit-box-shadow: 5px 3px 18px 4px #000000; 
+            box-shadow: 5px 3px 18px 4px #000000;
+        }
+    }
+}
+
+
+.mc-preporuka {
+    background-image: url(../img/2.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    padding: 70px;
+    
+    .mc-mprep {
+        margin-top: 200px;
+        margin-bottom: 200px;
+
+        h2 {
+            font-size: 55px;
+            font-weight: 700;
+        }
+    }
+}
+
+
+.mc-meni {
+    background-image: url(../img/Untitled-1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 100px!important;
+    margin-bottom: 100px;
+    .mc-1 {
+        background-image: url(../img/menu1.jpg);
+        background-position: left;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        justify-content: left;
+        margin: 0px auto;
+    }
+
+    .btn {
+        padding: 0px 20px;
+    }
+    .mc-2 {
+        background-image: url(../img/menu2.jpg);
+        background-position: left;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        justify-content: left;
+        margin: 0px auto;
+    }
+    .mc-3 {
+        background-image: url(../img/menu3.jpg);
+        background-position: left;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        justify-content: left;
+        margin: 0px auto;
+    }
+    .mc-4 {
+        background-image: url(../img/menu4.jpg);
+        background-position: left;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        justify-content: left;
+        margin: 0px auto;
+    }
+    .mc-5 {
+        background-image: url(../img/menu5.jpg);
+        background-position: left;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        justify-content: left;
+        margin: 0px auto;
+    }
+    .mc-6 {
+        background-image: url(../img/menu6.jpg);
+        background-position: left;
+        background-repeat: no-repeat;
+        background-size: cover;
+        display: flex;
+        justify-content: left;
+        margin: 0px auto;
+    }
+
+    .mc-menu {
+        background-color: rgba(0, 0, 0, 0.5);
+        margin-left: -11px;
+        width: 50%;
+        padding: 50px;
+        color: #fff;
+        text-align: center;
+    }
+}
+
+.mc-hotel {
+    background-image: url(../img/pexels-alexey-avilov-9956964.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000;
+    padding: 150px;
+
+    .mc-card {
+        padding: 35px;
+        -webkit-box-shadow: 5px 3px 18px 4px #000000; 
+            box-shadow: 5px 3px 18px 4px #000000;
+
+        .ikonica {
+            font-size: 50px;
+            color: #ffd900;
+        }
+    }
+}
+
+.mc-dostava {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    .mc-dostava-row {
+        h2{
+            font-size: 50px;
+        }
+        .icon-row {
+
+            .iconify {
+                color: #ffd900;
+                font-size: 50px;
+            }
+
+        }
+    }
+    .img-b{
+       background-image: url(../img/Untitled-1.png);
+       background-position:center ;
+
+       .blok-slika {
+           width: 80%;
+           img {
+            -webkit-box-shadow: 5px 3px 18px 4px #000000; 
+            box-shadow: 5px 3px 18px 4px #000000;
+           }
+       }
+    }
+}
+
+.mc-last {
+    background-color: #1a1a1a;
+
+    .mc-text {
+        color: #fff;
+       .mc-prijava {
+
+        margin-top: 50px;
+            #mail {
+                background-color: transparent;
+                border: none;
+                overflow: hidden;
+                border-bottom: 2px solid #fff;
+                padding: 10px 40px;
+                
+            }
+       }
+       .iconify {
+        font-size: 30px;
+        color: #fff;
+        transition: 0.4s;
+        &:hover {
+            color: #ffd900;
+            transition: 0.4s;
+        }
+    }
+    }
+    .mc-covek {
+        position: relative;
+        left: 150px;
+        padding: 40px;
+
+    }
+
+    .boja {
+        background-color: #ffd900;
+    }
+}
+
+.footer {
+    background-color: #333333;
+    color: #fff;
+
+    a{
+        color: #fff;
+        text-decoration: none;
+    }
+
+    .iconify {
+        font-size: 30px;
+        transition: 0.4s;
+        &:hover {
+            color: #ffd900;
+            transition: 0.4s;
+        }
+    }
+
+    .mc-footer {
+        padding: 40px;
+    }
+}
+
+// Kontakt
+.mc-contactbg{
+    padding: 70px;
+    background-image: url(../img/poz.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    .mc-marg {
+        margin-top: 100px;
+        margin-bottom: 150px;
+        
+        .mc-shadow {
+            -webkit-box-shadow: 2px 2px 13px 7px rgba(0,0,0,0.38); 
+            box-shadow: 2px 2px 13px 7px rgba(0,0,0,0.38);
+
+            .rgba {
+                background-color: rgba($color: #ffffff, $alpha: 0.4);
+            }
+        }
+    }
+    .mc-contact-bg {
+        background-color: #ffd900;
+        color: #fff;
+        padding: 40px;
+
+        
+        
+        .mc-text-contact {
+            margin-top: 40px;
+            margin-bottom: 40px;
+            h3 {
+                font-weight: 700;
+            }
+            p {
+                font-weight: 600;
+            }
+        }
+        .mc-contact {
+            .blok1 {
+                margin-top: 50px;
+                margin-bottom: 45px;
+            }
+        }
+        .iconify {
+            font-size: 30px;
+        }
+    }
+
+    .tabela {
+        margin: 0px auto;
+        width: 80%;
+    
+        input {
+                    background-color: transparent;
+                    border: none;
+                    overflow: hidden;
+                    border-bottom: 1px solid #333333;
+                    padding: 5px;
+        }
+
+        .inputi {
+            margin-bottom: 55px;
+        }
+
+       
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            margin-bottom: 20px;
+            background-color: #ffd900;
+        }
+       
+        textarea {
+            resize: none;
+        }
+
+        #pitanje {
+            border: none;
+            border-bottom: 1px solid #333333;
+            overflow: hidden;
+            background-color: transparent;
+            
+        }
+    }
+}
+
+.overlay {
+    background-image: url(../img/menu.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+    .mc-menubg {
+    background-color: rgba($color: #1a1a1a, $alpha: 0.7);
+    height: 900px;
+    }
+}
+
+.meni {
+    display: flex;
+    flex-direction: row !important;
+    
+    a {
+        margin: 10px;
+        border: none;
+
+        &:hover {
+            background-color: transparent;
+            font-weight: 600;
+
+        }
+
+        
+    }
+    .list-group-item.active {
+        background-color: transparent;
+        border: 1px solid #ffd900;
+
+    }
+
+   
+    
+}
+.ls-type {
+    margin-right: 20px;
+}
+
+ul {
+    list-style-type: none;
+
+    li {
+        display: flex;
+        flex-direction: column;
+        border-bottom: 2px solid #fff;
+        color: #fff;
+    }
+}
