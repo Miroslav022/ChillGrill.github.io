@@ -496,4 +496,515 @@ ul li {
   border-bottom: 2px solid #fff;
   color: #fff;
 }
+@media screen and (max-width:1441px) {
+    .border-f {
+
+    }
+    .border-f img {
+        width: 80%;
+    }
+
+    .mc-card-b h2 {
+        font-size: 34px !important;
+
+    }
+
+    .mc-card-b p {
+        font-size: 18px !important;
+    }
+    .mc-bg-specijalitet .mcc .mc-card{
+        height: auto;
+    }
+}
+
+@media screen and (max-width:1025px) {
+    
+     .fancy-border{
+        width: 400px !important;
+        height: 450px !important;
+    }
+
+    
+    .mc-card-b h2 {
+        font-size: 30px !important;
+
+    }
+    
+    .mc-card .btn {
+        padding: 10px 30px;
+    }
+
+    .mc-card-b p {
+        font-size: 16px !important;
+        margin-top: 10px !important;
+    }
+    .mc-bg-specijalitet .mcc .mc-card{
+        height: auto;
+    }
+
+    .mc-ponuda .mc-kartice .kartice .krug {
+        width: 55px !important;
+        height: 55px !important;
+    }
+
+    .mc-ponuda .mc-kartice .kartice .krug h1 {
+        font-size: 30px;
+    }
+
+    .mc-preporuka .mc-mprep h3 {
+        font-size: 28px !important;
+    }
+
+    .mc-preporuka .mc-mprep h2 {
+        font-size: 35px !important;
+    }
+
+    .mc-meni .mc-menu {
+        padding: 30px !important;
+    }
+
+    .mc-meni .mc-menu .btn {
+        padding: 8px 6px;
+        font-size: 14px;
+
+    }
+
+    .mc-hotel .mc-card {
+        padding: 0px !important;
+    }
+
+    .mc-hotel .mc-card .mc-card-b h2 {
+        font-size: 22px !important;
+    }
+
+    .mc-hotel .mc-card .mc-card-b p {
+        font-size: 14px !important;
+    }
+
+    .mc-hotel .mc-card .mc-card-b .btn {
+        padding: 10px 20px;
+    }
+
+    .mc-dostava .mc-dostava-row h2 {
+        font-size: 35px !important;
+    }
+
+    .mc-dostava .mc-dostava-row P {
+        font-size: 14px;
+    }
+
+    .mc-dostava .mc-dostava-row .icon-row .iconify {
+        font-size: 40px !important;
+    }
+
+    .mc-last .mc-text h2 {
+        font-size: 20px !important;
+    }
+    .mc-last .mc-text h3 {
+        font-size: 22px !important;
+    }
+
+    .mc-last .mc-text .mc-prijava #mail {
+        padding: 0px 12px;
+    }
+
+    .mc-last .mc-text .mc-prijava .btn {
+        font-size: 13px !important;
+        padding: 5px 10px;
+        
+    }
+
+    .mc-last .mc-text h2 {
+        font-size: 16px !important;
+    }
+
+    .mc-last .mc-text p {
+        font-size: 15px !important;
+    }
+
+    .mc-last .mc-text .iconify {
+        font-size: 20px !important;
+
+    }
+    .mc-contactbg .mc-marg .mc-shadow .mc-contact-bg {
+        padding: 20px;
+    }
+    .mc-contactbg .mc-marg .mc-shadow .mc-contact-bg .mc-contact p {
+        font-size: 14px !important;
+    }
+
+    .mc-contactbg .tabela .inputi .font {
+        margin-bottom: 35px !important;
+        font-size: 20px !important;
+    }
+}
+
+@media screen and (max-width:769px) {
+    #slika-header {
+        text-align: center;
+    }
+    #slika-header img{
+        margin-bottom: 10px;
+        width: 80%;
+        
+    }
+    .header-1 .btn {
+        padding: 8px 40px;;
+    }
+    .header-1 p {
+        font-size: 14px;
+    }
+    .header-1 h1 {
+        font-size: 25px;
+    }
+    .mc-card .btn {
+        padding: 10px 25px;
+    }
+
+    .mc-bg-specijalitet .mcc .mc-card{
+        height: auto;
+        margin: 30px;
+    }
+
+    #slika-header img {
+        width: 60%;
+        -webkit-box-shadow: 5px 3px 18px 4px #000000; 
+        box-shadow: 5px 3px 18px 4px #000000;
+    }
+
+    .mc-bg-specijalitet .border-f {
+        width: 80%;
+        margin: 0px auto;
+    }
+
+    .mc-ponuda .mc-kartice .mg-card {
+        margin-bottom: 10px;
+
+    }
+
+    .mc-ponuda .mc-kartice .row-resp {
+        margin-top: 0px !important;
+    }
+
+    .mc-ponuda .mc-kartice .kartice .mc-krug {
+        display: flex ;
+        justify-content: center ;
+        margin-bottom: 10px;
+    }
+
+    .mc-preporuka .mc-mprep h3 {
+        font-size: 24px !important;
+    }
+
+    .mc-preporuka .mc-mprep h2 {
+        font-size: 32px !important;
+    }
+    .mc-preporuka .mc-mprep .btn {
+        padding: 10px 20px;
+        
+    }
+
+    .mc-meni .row-resp {
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+    }
+
+    .mc-meni .mc-1, .mc-meni .mc-2, .mc-meni .mc-3, .mc-meni .mc-4, .mc-meni .mc-5, .mc-meni .mc-6 {
+        margin-bottom: 10px !important;
+    }
+
+    .mc-dostava {
+        margin-top: 10px !important;
+    }
+
+    .mc-dostava .mc-dostava-row {
+        padding: 70px;
+    }
+
+    .mc-dostava .mc-dostava-row .mc-blokdostava1 {
+        text-align: center;
+        margin-bottom: 15px;
+        
+    }
+
+    .mc-dostava .mc-dostava-row .mc-blokdostava2 {
+        margin-top: 70px;
+    }
+
+    .mc-last .mc-covek {
+        left: 0px !important;
+        top: 30px;
+        justify-content: start !important;
+        padding: 10px !important;
+    }
+    
+    .mc-last .boja {
+        height: 100px;
+
+    }
+
+    .mc-last .mc-text .resp-mail {
+        justify-content: center !important;
+        margin-bottom: 10px;
+    }
+    
+    .mc-last .mc-text .iconify {
+        font-size: 25px !important;
+    }
+    
+    .mc-last .mc-text .mc-podaci {
+        margin-bottom: 40px;
+    }
+}
+
+@media screen and (max-width:426px) {
+    .fancy-border{
+        width: 300px !important;
+        height: 350px !important;
+    }
+    .mc-card .btn {
+        padding: 10px 23px;
+    }
+    .mc-card h2 {
+        font-size: 25px !important;
+    }
+
+    .mc-ponuda .mc-kartice .mg-card .kartice .mc-ponuda-text {
+        margin-bottom: 0px !important;
+    }
+
+    .mc-meni p {
+        font-size: 14px;
+    }
+
+    .mc-meni .padding-row {
+        padding: 10px ;
+    }
+
+    .mc-hotel {
+        padding: 70px !important;
+    }
+
+    .mc-hotel .mc-card .mc-card-b p{
+        font-size: 12px !important;
+    }
+
+    .mc-hotel .mc-card .mc-card-b .btn {
+        padding: 10px;
+    }
+
+    .mc-hotel .mc-card .mc-card-b .iconify {
+        font-size: 40px;
+    }
+
+    .mc-dostava .img-b {
+        background-position: bottom !important;
+    }
+
+    .mc-dostava .mc-dostava-row .mc-blokdostava1 .btn {
+        font-size: 14px;
+        padding: 10px;
+      
+    }
+
+    .mc-dostava .mc-dostava-row .icon-row .iconify {
+        font-size: 35px !important;
+    }
+    .mc-dostava .mc-dostava-row P {
+        font-size: 12px;
+    }
+
+    .mc-dostava .mc-dostava-row h2 {
+        font-size: 28px !important;
+    }
+
+    .mc-dostava .img-b .blok-slika {
+        width: 100% !important;
+    }
+
+    .footer .mc-footer h3{
+        font-size: 20px !important;
+    }
+
+    .footer .mc-footer a{
+        font-size: 12px !important;
+    }
+    .footer .mc-footer .icons-footer a svg{
+        font-size: 20px !important;
+    }
+
+    .mc-contactbg .mc-marg .mc-shadow .mc-contact-bg  {
+        padding: 30px !important;
+    }
+
+    .mc-contactbg .mc-marg .mc-shadow .mc-contact-bg .mc-contact p {
+        font-size: 12px !important;
+    }
+
+    .meni .btn {
+        padding: 5px 15px !important;
+    }
+}
+
+@media screen and (max-width:376px) {
+    .header-1 .btn {
+        padding: 5px 30px;;
+    }
+
+    .hamburger span {
+        font-size: 14px;
+    }
+    .mc-card-b p {
+        font-size: 14px !important;
+       
+    }
+
+    .mc-card .btn {
+        padding: 7px 15px;
+        
+    }
+    .mc-card a {
+        font-size: 14px;
+    }
+
+    .mc-preporuka .mc-mprep h3{
+        font-size: 20px !important;
+    }
+    .mc-preporuka .mc-mprep h2 {
+        font-size:22px !important ;
+    }
+
+    .mc-preporuka .mc-mprep .btn {
+        padding: 5px 10px;
+        font-size: 14px;
+    }
+    
+    .mc-meni .mc-menu .btn {
+        padding: 7px 6px;
+        font-size: 11px;
+    }
+    .footer .mc-footer h3{
+        font-size: 16px !important;
+    }
+
+    .footer .mc-footer a{
+        font-size: 10px !important;
+    }
+    .footer .mc-footer .icons-footer a svg{
+        font-size: 18px !important;
+    }
+
+    .mc-contactbg .tabela input {
+        width: max-content;
+    }
+
+    .mc-contactbg .mc-contact-bg .mc-text-contact h3 {
+        font-size: 20px !important;
+    }
+
+    .mc-contactbg .mc-contact-bg .mc-text-contact p {
+        font-size: 12px !important;
+    }
+
+    .mc-contactbg .mc-marg .mc-shadow .mc-contact-bg {
+        padding: 5px !important;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width:321px) {
+    .mc-card h2 {
+        font-size: 20px !important;
+    }
+
+    .mc-meni .mc-menu .btn {
+        padding: 5px 5px;
+        font-size: 8px;
+    }
+
+    .mc-hotel {
+        padding: 40px !important;
+    }
+
+    .mc-hotel .mc-card .mc-card-b p {
+        margin-top: 5px !important;
+        margin-bottom: 5px !important;
+        font-size: 10px !important;
+    }
+
+    .mc-hotel .mc-card .mc-card-b h2 {
+        font-size: 19px !important;
+    }
+
+    .mc-hotel .mc-card .mc-card-b .btn {
+        padding: 7px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+    .mc-card-b p {
+        font-size: 11px !important;
+    }
+
+    .mc-card .btn {
+        padding: 5px 10px;
+        font-size: 10px;
+    }
+    
+    .mc-ponuda .mc-kartice .mg-card .kartice .mc-ponuda-text {
+        font-size: 14px;
+    }
+    .mc-ponuda .mc-kartice .kartice a {
+        font-size: 14px;
+    }
+
+    .mc-meni p {
+        font-size: 12px;
+    }
+
+    .mc-dostava .mc-dostava-row h2 {
+        font-size: 24px !important;
+    }
+
+    .mc-dostava .mc-dostava-row P {
+        font-size: 10px;
+    }
+
+    .mc-dostava .mc-dostava-row .mc-blokdostava1 .btn {
+        font-size: 10px;
+        padding: 10px;
+      
+    }
+
+    .mc-contactbg .mc-marg .mc-shadow .rgba h3 {
+        font-size: 16px !important;
+    }
+
+    .mc-contactbg .tabela .inputi .font {
+        margin-bottom: 30px !important;
+        font-size: 15px !important;
+        width: max-content;
+    }
+
+    .mc-contactbg .tabela .btn {
+        padding: 5px 10px !important;
+        font-size: 13px !important;
+    }
+    .mc-contactbg .tabela .inputi {
+        margin-bottom: 5px !important;
+    }
+
+
+    .mc-contactbg .tabela .inputi {
+        width: 80%;
+    }
+
+    .mc-contactbg .tabela input {
+        width: 80%;
+    }
+
+    .mc-contactbg .tabela input::placeholder {
+        font-size: 13px !important;
+    }
+}
 /*# sourceMappingURL=style.css.map */
