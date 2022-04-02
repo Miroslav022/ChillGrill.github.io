@@ -844,6 +844,10 @@ ul li {
     .meni .btn {
         padding: 5px 15px !important;
     }
+  
+   .overlay .mc-menubg .cena-margin {
+        margin-top: 10px !important;
+    }
 }
 
 @media screen and (max-width:376px) {
